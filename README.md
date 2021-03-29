@@ -1,2 +1,2 @@
-# atom-DOM-GeoJSON
-Background material on Atom code editor, DOM, and GeoJSON.
+# Background Info
+This repo contains three short `.md` files with background information on the [Atom code editor](https://github.com/IDCE-MSGIS/atom-DOM-GeoJSON/blob/main/Learn-Atom.md) (which I use for creating web maps), the ["Document Object Model" or DOM](https://github.com/IDCE-MSGIS/atom-DOM-GeoJSON/blob/main/Learn-DOM.md), and the data format [GeoJSON](https://github.com/IDCE-MSGIS/atom-DOM-GeoJSON/blob/main/Learn-GeoJSON.md).
